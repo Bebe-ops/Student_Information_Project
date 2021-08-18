@@ -1,8 +1,19 @@
 # Student_Information_Project
+
 ## Manual testing
 
 __3 rétegű webes oktatás-szervezési alkalmazás manuális felülettesztelése__  
-*Agilis módszer alkalmazásával, SCRUM-keretrendszerben, 1hetes sprintekben dolgoztunk.*
+
+
+
+*Agilis módszer alkalmazásával, SCRUM-keretrendszerben, 1hetes sprintekben dolgoztunk.*  
+
++ A SPRINT2-ben általam készített Test Plan és Test Report is megtalálható a repóban.
++ Repository tartalom:  
+Hibajegyek  => bug_tickets mappa
+Manuális tesztesetek  => test_cases mappa
+
+
 
 ### Néhány tesztesetem a Sprint2-ben:
 
